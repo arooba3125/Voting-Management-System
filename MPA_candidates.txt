@@ -1,0 +1,5 @@
+PA111            32206           Arooba              PPP              bat
+PA222            32206              Ali              PTI              Bat
+PA111            42364             Asad             PMLN           kettle
+PA874       3226452736           Arooba      Independent           Fridge
+PA234        328364533    Asad ul Allah              MQM         football
